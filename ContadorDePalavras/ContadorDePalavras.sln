@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContadorDePalavras", "ContadorDePalavras\ContadorDePalavras.csproj", "{774F689D-A51D-4F44-B1F8-A30F640209BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{774F689D-A51D-4F44-B1F8-A30F640209BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774F689D-A51D-4F44-B1F8-A30F640209BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774F689D-A51D-4F44-B1F8-A30F640209BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774F689D-A51D-4F44-B1F8-A30F640209BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC8DC76D-791E-4FBF-8B3E-8B4C7830856F}
+	EndGlobalSection
+EndGlobal
